@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="function_name">个人标准身高计算器</string>
+    <string name="input_your_weight">请输入你的体重</string>
+    <string name="Select_sex">请选择你的性别</string>
+    <string name="Man">男</string>
+    <string name="Women">女</string>
+    <string name="operation">运算</string>
+
+
+
+
+</resources>
